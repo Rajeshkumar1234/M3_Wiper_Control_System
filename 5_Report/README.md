@@ -78,7 +78,6 @@ The windshield wiper sontrol system consists of wipers and wiper arms
 </body>
 </html>
 
-
 <h2>LOW LEVEL REQUIREMENTS:</h2>
 
 </head>
@@ -131,7 +130,6 @@ The windshield wiper sontrol system consists of wipers and wiper arms
  These are the necessary test plans for implementing this project.
 
 <h2>HIGH LEVEL TEST PLAN:</h2>
-
 
 <body>
 	<table>
