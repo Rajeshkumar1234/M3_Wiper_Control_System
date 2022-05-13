@@ -6,31 +6,31 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 
 <h2>OBJECTIVES:</h2>
 
-* To design and implement a new mechanism to cover the area of automobile's windshield.
-* The purpose of the wiper system is to clean the windshield effectively to provide clear vision for the driver.
-* The system contains a microcontroller that takes input signals from the sensor and controls the operation.
+ To design and implement a new mechanism to cover the area of automobile's windshield.
+ The purpose of the wiper system is to clean the windshield effectively to provide clear vision for the driver.
+ The system contains a microcontroller that takes input signals from the sensor and controls the operation.
 
 <h1>4W's AND 1H:</h1>
 
 <h2>WHAT:</h2>
 
-* The windshield wiper sontrol system consists of wipers and wiper arms
+ The windshield wiper sontrol system consists of wipers and wiper arms
 
 <h2>WHEN:</h2>
 
-* It can be used when there is rainfall, cleaning the winshield after a long time, dusty conditions etc.
+ It can be used when there is rainfall, cleaning the winshield after a long time, dusty conditions etc.
 
 <h2>WHERE:</h2>
 
-* It is used to remove water, dirt, dust, smoke, fog, mist etc.
+ It is used to remove water, dirt, dust, smoke, fog, mist etc.
 
 <h2>WHO:</h2>
 
-* It is used by the drivers of heavy automobiles and domestic 4-wheelers.
+ It is used by the drivers of heavy automobiles and domestic 4-wheelers.
 
 <h2>HOW:</h2>
 
-* They can be operated by electric motors.
+ They can be operated by electric motors.
 
 <h2>SWOT ANALYSIS:</h2>
 
