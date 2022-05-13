@@ -15,12 +15,10 @@ The automated Wiper system is used to detect rainfall and activate the wiper sys
 
 <h1>KEY TERMS:</h1>
 
-1.  STM32 Discovery Board
-2. Microcontroller
-3. Electric Motor
-4. Wiper arm
-5. Wiper Blade
-
+ STM32 Discovery Board
+ Microcontroller
+ Electric Motor
+ Wiper arm
+ Wiper Blade
 
  This folder contains the abstract, Research progress for the implementation of this project.
-
