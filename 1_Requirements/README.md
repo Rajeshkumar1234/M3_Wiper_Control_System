@@ -36,10 +36,7 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 
 ![swot](https://user-images.githubusercontent.com/101571637/167284529-6a3c261c-0a76-415f-9cc7-8f5a1e899f2f.png)
 
-
 <h2>HIGH LEVEL REQUIREMENTS:</h2>
-
-
 
 </head>
 <body>
@@ -77,9 +74,7 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 </body>
 </html>
 
-
 <h2>LOW LEVEL REQUIREMENTS:</h2>
-
 
 </head>
 <body>
@@ -122,4 +117,4 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 </body>
 </html>
 
-* This folder contains documents detailing requirements with respect to the project.
+ This folder contains documents detailing requirements with respect to the project.
