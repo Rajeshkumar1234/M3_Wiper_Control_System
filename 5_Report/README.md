@@ -186,11 +186,6 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 </body>
 </html>
 
-
-
-
-
-
 <h2>LOW LEVEL TEST PLAN:</h2>
 
 <body>
@@ -248,16 +243,9 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 
 <img width="881" alt="Pressed for 2nd time" src="https://user-images.githubusercontent.com/101571637/168275072-0b2f84e9-75f2-4803-8ae4-9f6f778fe72f.PNG">
 
-
-
 <H2>4. EXECUTION WHEN BUTTON IS PRESSED FOR THIRD TIME:</H2>
 
 * Turning OFF the wiper
 <img width="940" alt="pressed with third time" src="https://user-images.githubusercontent.com/101571637/168276097-0766399d-37ec-4bdd-851c-2799d9604d1e.PNG">
 
-
-
-
-
 * This folder contains the final full report of this project. 
-
