@@ -4,7 +4,6 @@
 
 <h2>HIGH LEVEL TEST PLAN:</h2>
 
-
 <body>
 	<table>
 		<thead>
@@ -35,11 +34,6 @@
 	</table>
 </body>
 </html>
-
-
-
-
-
 
 <h2>LOW LEVEL TEST PLAN:</h2>
 
