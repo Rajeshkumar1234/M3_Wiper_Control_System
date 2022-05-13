@@ -26,11 +26,9 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 
 <h2>WHO:</h2>
 
-
 * It is used by the drivers of heavy automobiles and domestic 4-wheelers.
 
 <h2>HOW:</h2>
-
 
 * They can be operated by electric motors.
 
@@ -128,4 +126,3 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 
 
 * This folder contains documents detailing requirements with respect to the project.
-
