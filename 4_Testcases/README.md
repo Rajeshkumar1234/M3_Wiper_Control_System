@@ -1,6 +1,6 @@
 <H1>TEST PLAN:</H1>
 
-* These are the necessary test plans for implementing this project.
+ These are the necessary test plans for implementing this project.
 
 <h2>HIGH LEVEL TEST PLAN:</h2>
 
@@ -68,5 +68,4 @@
 </body>
 </html>
 
-* This folder contains the necessary test cases for this project.
-
+ This folder contains the necessary test cases for this project.
