@@ -11,3 +11,7 @@
 [![Valgrind](https://github.com/Rajeshkumar1234/M3_Wiper_Control_System/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Rajeshkumar1234/M3_Wiper_Control_System/actions/workflows/valgrind.yml)
 
 [![unity](https://github.com/Rajeshkumar1234/M3_Wiper_Control_System/actions/workflows/Unity.yml/badge.svg)](https://github.com/Rajeshkumar1234/M3_Wiper_Control_System/actions/workflows/Unity.yml)
+
+<a href="https://app.codiga.io/hub/user/github/Rajeshkumar1234">
+   <img src="https://api.codiga.io/public/badge/user/github/Rajeshkumar1234?style=light" alt="codiga badge" />
+</a>
