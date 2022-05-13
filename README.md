@@ -7,3 +7,5 @@
 [![Contribution Check - Git Inspector](https://github.com/Rajeshkumar1234/M3_Wiper_Control_System/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Rajeshkumar1234/M3_Wiper_Control_System/actions/workflows/git_inspector.yml)
 
 [![CI](https://github.com/Rajeshkumar1234/M3_Wiper_Control_System/actions/workflows/main.yml/badge.svg)](https://github.com/Rajeshkumar1234/M3_Wiper_Control_System/actions/workflows/main.yml)
+
+[![Valgrind](https://github.com/Rajeshkumar1234/M3_Wiper_Control_System/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Rajeshkumar1234/M3_Wiper_Control_System/actions/workflows/valgrind.yml)
