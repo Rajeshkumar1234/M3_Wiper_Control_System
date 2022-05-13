@@ -4,10 +4,6 @@
 
 Vehicle windshield wipers play a important role during extreme weather conditions by wiping the rain water, dust, fog, mist continuously over the course of time and they help us give a clear vision to the driver. Wipers are designed and made to clear the unwanted dust, water etc. from a windscreen. It is Prime duty to improve the safety facilities in all automobiles and vehicles. The system is used to activate the Wipers manually. Due to this issue many engineers and designers and developers have contributed to the research and developement of Automatic Windshield Wiper Functionality in automobiles. The Windshield Wiper Functionality of domestic cars primarily consists of three systems,
 
-* Two wipers and theis respecive arms
-* A mechanism
-* An electronic Motor
-
 The concept of this proposed wiper system is similar to that of all the other exesting wiper systems. A wiper normally consists of metal arm, one end pivots and the other end has a long rubber blade-attached to it. The purpose of the project is to design the windshield wiper control system for the safetiness of the people who drive heavy automobiles and domestic four-wheeler vehicles.
 
 
@@ -15,14 +11,7 @@ The concept of this proposed wiper system is similar to that of all the other ex
 
 The automated Wiper system is used to detect rainfall and activate the wiper system automatically without the drivers inuput contol
 
-
-<h1>KEY TERMS:</h1>
-
-* STM32 Discovery Board
-* Microcontroller
-* Electric Motor
 * Wiper arm
-* Wiper Blade
 
 <h1>BASIC REQUIREMENTS:</h1>
 
@@ -33,22 +22,12 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 <h2>OBJECTIVES:</h2>
 
 * To design and implement a new mechanism to cover the area of automobile's windshield.
-* The purpose of the wiper system is to clean the windshield effectively to provide clear vision for the driver.
-* The system contains a microcontroller that takes input signals from the sensor and controls the operation.
 
 <h1>4W's AND 1H:</h1>
 
 <h2>WHAT:</h2>
 
 * The windshield wiper sontrol system consists of wipers and wiper arms
-
-<h2>WHEN:</h2>
-
-* It can be used when there is rainfall, cleaning the winshield after a long time, dusty conditions etc.
-
-<h2>WHERE:</h2>
-
-* It is used to remove water, dirt, dust, smoke, fog, mist etc.
 
 <h2>WHO:</h2>
 
