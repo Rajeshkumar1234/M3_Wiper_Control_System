@@ -4,6 +4,8 @@ Vehicle windshield wipers play a important role during extreme weather condition
 
 
 * Two wipers and theis respecive arms
+
+
 * A mechanism
 * An electronic Motor
 
